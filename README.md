@@ -15,9 +15,9 @@ presentación.
 
 | **Aplicaciones** | **Visto** |
 |--------|:--------:|
-| Google Docs | ![Tick](Captura de pantalla 2023-10-04 130823.png"Tick") |
-| Google Slides | ![Tick](Captura de pantalla 2023-10-04 130823.png"Tick") |
-| Google Sheets  | ![Tick](Captura de pantalla 2023-10-04 130823.png"Tick") |
+| Google Docs | ![Tick](https://github.com/Cepri2005/Evaluacion_inicial_CeprianIker/blob/main/Captura%20de%20pantalla%202023-10-04%20130823.png"Tick") |
+| Google Slides | ![Tick](https://github.com/Cepri2005/Evaluacion_inicial_CeprianIker/blob/main/Captura%20de%20pantalla%202023-10-04%20130823.png"Tick") |
+| Google Sheets  | ![Tick](https://github.com/Cepri2005/Evaluacion_inicial_CeprianIker/blob/main/Captura%20de%20pantalla%202023-10-04%20130823.png"Tick") |
 | Google Calendar  | ![Tick](Captura de pantalla 2023-10-04 130854.png"Tick") |
 |Google Meet  | ![Tick](Captura de pantalla 2023-10-04 130905.png"Tick") |
 |...  | ... |  
